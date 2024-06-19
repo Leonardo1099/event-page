@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Merriweather Sans";
+}
+
+.h3-default {
+  font-size: 3rem;
+  color: #ffd700;
+  text-shadow: 1px 2px 1px black;
+}
+
+.h2-default {
+  font-size: 2rem;
+  color: #ffd700;
+  text-shadow: 1px 2px 1px black;
+}
+
+.p-default {
+  font-size: 2rem;
+  color: #ffffff;
+  text-shadow: 1px 2px 1px black;
+  margin-bottom: 2rem;
+}
+
+.p-defaultt {
+  font-size: 2rem;
+  color: #ddff00;
+  text-shadow: 1px 2px 1px black;
+  margin-bottom: 2rem;
+}
+
+#section-hero{
+  padding: 2rem;
+  background-color: #2317aa;
+  border-radius: 2rem;
+}
+/* #2317aa */
+
+#section-contact{
+  padding: 2rem;
+  background-color: #2317aa;
+  border-radius: 2rem;
+}
+
+/* Sobre.css */
+#section-about{
+  padding: 2rem;
+  background-color: #2317aa;
+  border-radius: 2rem;
+}
+
+.button-default {
+  margin: auto;
+  padding: 2.5rem;
+  background-color: #1cc7e1d3;
+  color: #ffffff;
+  border-radius: 1.5rem;
+  border: none;
+  font-size: 2rem;
+  margin-top: 1rem;
+  width: 13rem;
+  cursor: pointer;
+}
+

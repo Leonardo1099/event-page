@@ -15,7 +15,7 @@ function Hero() {
 
         <img
           src="src\assets\_53402b81-426a-4b6f-8436-98552b1ba94f.jpg"
-          alt=""
+          alt="pessoas no evento"
         />
 
         <h3 className="h3-default">O Que Esperar:</h3>
@@ -33,20 +33,20 @@ function Hero() {
         </li>
         <img
           src="src\assets\_76c434e2-5342-40c9-9812-d68559b042d3.jpg"
-          alt=""
+          alt="Workshops Interativos"
         />
         <li className="p-default">
           Demonstrações Tecnológicas: Experimente em primeira mão os produtos e
           soluções que estão moldando o amanhã.
         </li>
-        <img src="src\assets\Fujitsu-Innovation-Gathering.jpg" alt="" />
+        <img src="src\assets\Fujitsu-Innovation-Gathering.jpg" alt="Demonstrações Tecnológicas" />
         <li className="p-default">
           Networking: Conecte-se com colegas, faça novos contatos e troque
           ideias em nossas sessões de networking estruturadas.
         </li>
         <img
           src="src\assets\xnetworking-principal.jpg.pagespeed.ic.9VUzezb3m2.webp"
-          alt=""
+          alt="Networking"
         />
 
         <h3 className="h3-default">Palestrantes Principais: </h3>
